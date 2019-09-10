@@ -8,4 +8,4 @@ Text modificat des de branch1
 
 s
 
-
+nova modificacio des de master
