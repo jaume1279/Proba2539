@@ -6,16 +6,4 @@ Modificacio des de master
 
 Text modificat des de branch1
 
-s
-
-nova modificacio des de master
-
-ara desde branch2
-
-i ara branch3
-
-mes desde branch3
-
-ara branch4
-
-mes des de branch4
+tornem a master mentre branch5 esta viva
