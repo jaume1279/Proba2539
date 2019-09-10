@@ -2,8 +2,12 @@ Arxiu de proba de git
 
 
 
-Modificacio des de master
+modifiquem des de branch5
+
 
 Text modificat des de branch1
 
 tornem a master mentre branch5 esta viva
+
+mes des de branch5
+
